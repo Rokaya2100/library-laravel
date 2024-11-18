@@ -1,4 +1,4 @@
-#Simple System Project for managing a library
+#Simple System Project for management a library
 
 ###Description
 The project is a **Library Ro** about the Books built with **laravel 10.0** which makes the code clearer and allows it to be easily reused and adapted to future changes.It allows users to perform **CRUD operations** (create, read, update, delete) on books,authors,categories with the ability to search for any book or author.
